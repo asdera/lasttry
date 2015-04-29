@@ -3,8 +3,8 @@
   
 img {
 background:url(bg_apple_little.gif) no-repeat center center;
-height:200px;
-width:200px;
+height: 600px;
+width: 800px;
 }
 .about-me {
   border-radius: 100%;
@@ -12,7 +12,6 @@ width:200px;
 }
 
 .slide {
-	padding: 10px;
 	border: 10px solid red;
 }
 
