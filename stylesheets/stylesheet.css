@@ -271,7 +271,7 @@ li {
 }
     .banner li { list-style: none; }
         .banner ul li { float: left; }
-        	.banner ul li img {
+.slidepics {
 			height: 80;
 			width: 120;
 			margin: center;
