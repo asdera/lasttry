@@ -3,8 +3,8 @@
   
 img {
 background:url(bg_apple_little.gif) no-repeat center center;
-height: fill;
-width: fill;
+height: 200;
+width: 200;
 }
 .about-me {
   border-radius: 100%;
@@ -272,7 +272,7 @@ li {
 .banner {
 	position: relative; 
 	overflow: auto; 
-	background-color: blue;
+	background-image: "http://fc00.deviantart.net/fs50/f/2009/298/2/7/Fresh_Wallpaper_by_BoneyardBrew.jpgblue";
 }
     .banner li { list-style: none; }
         .banner ul li { 
