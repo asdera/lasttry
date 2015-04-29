@@ -260,6 +260,15 @@ li {
   font-family: Big John;
 }
 
-.banner { position: relative; overflow: auto; }
+.banner {
+	position: relative; 
+	overflow: auto; 
+	background-color: blue;
+}
     .banner li { list-style: none; }
         .banner ul li { float: left; }
+
+.banner img {
+	height: 80;
+	width: 120;
+}
