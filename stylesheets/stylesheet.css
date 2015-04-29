@@ -1,9 +1,13 @@
 * {
   box-sizing: border-box; }
   
-.about-me{
+.about-me {
   border-radius: 100%;
 	border: 10px solid purple;
+}
+
+.slide {
+	border: 10px solid red;
 }
 
 body {
@@ -267,8 +271,8 @@ li {
 }
     .banner li { list-style: none; }
         .banner ul li { float: left; }
-
-.banner img {
-	height: 80;
-	width: 120;
+        	.banner ul li img {
+			height: 80;
+			width: 120;
+			margin: center;
 }
