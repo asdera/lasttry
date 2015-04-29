@@ -1,5 +1,10 @@
 * {
   box-sizing: border-box; }
+  
+.about-me{
+  border-radius: 100%;
+	border: 10px solid purple;
+}
 
 body {
   padding: 0;
