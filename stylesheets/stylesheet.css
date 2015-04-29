@@ -3,8 +3,8 @@
   
 img {
 background:url(bg_apple_little.gif) no-repeat center center;
-height: 600px;
-width: 800px;
+height: fill;
+width: fill;
 }
 .about-me {
   border-radius: 100%;
