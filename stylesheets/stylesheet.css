@@ -1,6 +1,12 @@
 * {
   box-sizing: border-box; }
   
+img {
+	height: 200;
+	width: 300;
+	margin: center;
+}
+  
 .about-me {
   border-radius: 100%;
 	border: 10px solid purple;
@@ -275,8 +281,4 @@ li {
         	color: black;
         	font-size: 20px;
         }
-img {
-	height: 200;
-	width: 300;
-	margin: center;
-}
+
