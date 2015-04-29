@@ -270,7 +270,11 @@ li {
 	background-color: blue;
 }
     .banner li { list-style: none; }
-        .banner ul li { float: left; }
+        .banner ul li { 
+        	float: left; 
+        	color: black;
+        	font-size: 20px;
+        }
 img {
 	height: 200;
 	width: 300;
