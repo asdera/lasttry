@@ -2,11 +2,10 @@
   box-sizing: border-box; }
   
 img {
-	height: 200;
-	width: 300;
-	margin: center;
+background:url(bg_apple_little.gif) no-repeat center center;
+height:200px;
+width:200px;
 }
-  
 .about-me {
   border-radius: 100%;
 	border: 10px solid purple;
@@ -280,5 +279,6 @@ li {
         	float: left; 
         	color: black;
         	font-size: 20px;
+        	text-align: center
         }
 
